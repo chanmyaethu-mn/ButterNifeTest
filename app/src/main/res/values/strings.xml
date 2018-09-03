@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ButterNifeTest</string>
+    <string name="title_activity_location_list">LocationListActivity</string>
+
+    <string name="hint_location_name">Location Name...</string>
+    <string name="hint_location_coordinate">Location Coordinate</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_update">Update</string>
+    <string name="button_delete">Delete</string>
+    <string name="empty_not_saved">Location not saved because it is empty</string>
+
+    <string name="location_permission_denied">Location Permission Denied</string>
+    <string name="permission_required_toast">Permission Required Toast</string>
+    <string name="permission_rationale_location">No Location Permission</string>
+</resources>
